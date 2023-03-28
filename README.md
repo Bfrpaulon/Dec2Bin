@@ -6,8 +6,8 @@ This is the first project in a series of 50 projects for programming beginners. 
 
 # Demonstration 
 
-![Uploading FireShot Capture 065 - Dec2Bin - 5500-bfrpaulon-dec2bin-gtu3ssdhnze.ws-us92.gitpod.io.png…]()
-![Uploading mobile (4).png…]()
+![FireShot Capture 065 - Dec2Bin - 5500-bfrpaulon-dec2bin-gtu3ssdhnze ws-us92 gitpod io](https://user-images.githubusercontent.com/122818137/228309077-38de5d5b-3876-417c-84e1-ce0b9d838ff3.png)
+![mobile (4)](https://user-images.githubusercontent.com/122818137/228309090-0dce0201-9240-4b64-86ce-20556fd34bf6.png)
 
 
 ## Functionalities

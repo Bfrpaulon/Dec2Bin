@@ -5,8 +5,10 @@
 This is the first project in a series of 50 projects for programming beginners. The goal of this project is to create a simple binary-to-decimal converter using HTML, CSS, and JavaScript.
 
 # Demonstration 
-![image](https://user-images.githubusercontent.com/122818137/228207998-d8569ed7-2c4b-4cc0-b3a9-0742ee04f041.png)
-![mobile (2)](https://user-images.githubusercontent.com/122818137/228208688-c1b1358a-34e2-4b6a-bdc9-d08e9197ba58.png)
+
+![Uploading FireShot Capture 065 - Dec2Bin - 5500-bfrpaulon-dec2bin-gtu3ssdhnze.ws-us92.gitpod.io.png…]()
+![Uploading mobile (4).png…]()
+
 
 ## Functionalities
 
